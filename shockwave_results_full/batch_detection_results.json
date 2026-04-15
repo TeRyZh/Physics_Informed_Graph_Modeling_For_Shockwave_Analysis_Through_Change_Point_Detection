@@ -1,0 +1,1960 @@
+{
+  "stats": {
+    "total_processed": 120,
+    "successful": 120,
+    "failed": 0,
+    "skipped": 0,
+    "total_shockwaves": 697,
+    "duration_seconds": 3175.4132554531097,
+    "by_interval": {
+      "0750am-0805am": {
+        "total": 40,
+        "success": 40,
+        "failed": 0,
+        "shockwaves": 125
+      },
+      "0805am-0820am": {
+        "total": 40,
+        "success": 40,
+        "failed": 0,
+        "shockwaves": 223
+      },
+      "0820am-0835am": {
+        "total": 40,
+        "success": 40,
+        "failed": 0,
+        "shockwaves": 349
+      }
+    },
+    "by_method": {
+      "PELT+ + Graph (Proposed)": {
+        "success": 120,
+        "failed": 0,
+        "shockwaves": 697
+      }
+    }
+  },
+  "results": [
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera1",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 347,
+        "n_decel_points": 57,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 39
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera1",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 389,
+        "n_decel_points": 78,
+        "n_clusters": 4,
+        "n_shockwaves": 4,
+        "n_noise": 35
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera1",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 385,
+        "n_decel_points": 73,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 41
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera1",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 362,
+        "n_decel_points": 80,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 52
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera1",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 337,
+        "n_decel_points": 75,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 62
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera2",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 363,
+        "n_decel_points": 65,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 37
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera2",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 418,
+        "n_decel_points": 68,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 34
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera2",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 418,
+        "n_decel_points": 64,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 30
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera2",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 403,
+        "n_decel_points": 34,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 24
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera2",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 360,
+        "n_decel_points": 34,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 16
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera3",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 368,
+        "n_decel_points": 45,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 21
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera3",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 430,
+        "n_decel_points": 67,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 43
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera3",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 438,
+        "n_decel_points": 89,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 58
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera3",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 438,
+        "n_decel_points": 83,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 56
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera3",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 381,
+        "n_decel_points": 61,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 47
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera4",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 371,
+        "n_decel_points": 176,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 123
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera4",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 431,
+        "n_decel_points": 79,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 57
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera4",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 440,
+        "n_decel_points": 80,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 57
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera4",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 438,
+        "n_decel_points": 70,
+        "n_clusters": 0,
+        "n_shockwaves": 0,
+        "n_noise": 70
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera4",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 390,
+        "n_decel_points": 79,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 56
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera5",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 373,
+        "n_decel_points": 140,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 79
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera5",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 427,
+        "n_decel_points": 94,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 73
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera5",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 445,
+        "n_decel_points": 70,
+        "n_clusters": 0,
+        "n_shockwaves": 0,
+        "n_noise": 70
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera5",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 440,
+        "n_decel_points": 42,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 29
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera5",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 385,
+        "n_decel_points": 28,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 17
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera6",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 374,
+        "n_decel_points": 211,
+        "n_clusters": 12,
+        "n_shockwaves": 12,
+        "n_noise": 72
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera6",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 434,
+        "n_decel_points": 154,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 118
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera6",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 452,
+        "n_decel_points": 124,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 100
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera6",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 437,
+        "n_decel_points": 76,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 69
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera6",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 377,
+        "n_decel_points": 47,
+        "n_clusters": 0,
+        "n_shockwaves": 0,
+        "n_noise": 47
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera7",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 375,
+        "n_decel_points": 232,
+        "n_clusters": 12,
+        "n_shockwaves": 12,
+        "n_noise": 97
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera7",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 445,
+        "n_decel_points": 208,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 132
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera7",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 461,
+        "n_decel_points": 164,
+        "n_clusters": 4,
+        "n_shockwaves": 4,
+        "n_noise": 132
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera7",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 437,
+        "n_decel_points": 138,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 122
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera7",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 387,
+        "n_decel_points": 67,
+        "n_clusters": 0,
+        "n_shockwaves": 0,
+        "n_noise": 67
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera8",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 369,
+        "n_decel_points": 292,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 136
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera8",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 430,
+        "n_decel_points": 236,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 133
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera8",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 449,
+        "n_decel_points": 173,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 132
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera8",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 425,
+        "n_decel_points": 114,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 96
+      }
+    },
+    {
+      "time_interval": "0750am-0805am",
+      "camera": "camera8",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0750am-0805am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 385,
+        "n_decel_points": 98,
+        "n_clusters": 0,
+        "n_shockwaves": 0,
+        "n_noise": 98
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera1",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 288,
+        "n_decel_points": 201,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 104
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera1",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 300,
+        "n_decel_points": 260,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 147
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera1",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 290,
+        "n_decel_points": 250,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 180
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera1",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 292,
+        "n_decel_points": 254,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 184
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera1",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 283,
+        "n_decel_points": 187,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 156
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera2",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 290,
+        "n_decel_points": 250,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 91
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera2",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 315,
+        "n_decel_points": 240,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 153
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera2",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 312,
+        "n_decel_points": 222,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 120
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera2",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 315,
+        "n_decel_points": 192,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 99
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera2",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 293,
+        "n_decel_points": 111,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 75
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera3",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 296,
+        "n_decel_points": 196,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 105
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera3",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 327,
+        "n_decel_points": 220,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 103
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera3",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 324,
+        "n_decel_points": 258,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 173
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera3",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 328,
+        "n_decel_points": 240,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 111
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera3",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 302,
+        "n_decel_points": 180,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 94
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera4",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 296,
+        "n_decel_points": 152,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 71
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera4",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 332,
+        "n_decel_points": 173,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 84
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera4",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 327,
+        "n_decel_points": 163,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 100
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera4",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 340,
+        "n_decel_points": 142,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 90
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera4",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 315,
+        "n_decel_points": 89,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 54
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera5",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 296,
+        "n_decel_points": 105,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 48
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera5",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 333,
+        "n_decel_points": 99,
+        "n_clusters": 4,
+        "n_shockwaves": 4,
+        "n_noise": 68
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera5",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 320,
+        "n_decel_points": 74,
+        "n_clusters": 4,
+        "n_shockwaves": 4,
+        "n_noise": 32
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera5",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 331,
+        "n_decel_points": 54,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 31
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera5",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 312,
+        "n_decel_points": 47,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 37
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera6",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 299,
+        "n_decel_points": 173,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 72
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera6",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 341,
+        "n_decel_points": 147,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 74
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera6",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 324,
+        "n_decel_points": 121,
+        "n_clusters": 4,
+        "n_shockwaves": 4,
+        "n_noise": 66
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera6",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 329,
+        "n_decel_points": 111,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 94
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera6",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 314,
+        "n_decel_points": 105,
+        "n_clusters": 1,
+        "n_shockwaves": 1,
+        "n_noise": 86
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera7",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 300,
+        "n_decel_points": 180,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 84
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera7",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 348,
+        "n_decel_points": 174,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 99
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera7",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 338,
+        "n_decel_points": 190,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 79
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera7",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 329,
+        "n_decel_points": 171,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 113
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera7",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 303,
+        "n_decel_points": 96,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 65
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera8",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 297,
+        "n_decel_points": 245,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 97
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera8",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 341,
+        "n_decel_points": 221,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 98
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera8",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 330,
+        "n_decel_points": 241,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 126
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera8",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 323,
+        "n_decel_points": 180,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 126
+      }
+    },
+    {
+      "time_interval": "0805am-0820am",
+      "camera": "camera8",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0805am-0820am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 303,
+        "n_decel_points": 141,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 117
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera1",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 248,
+        "n_decel_points": 196,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 136
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera1",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 264,
+        "n_decel_points": 206,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 95
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera1",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 249,
+        "n_decel_points": 171,
+        "n_clusters": 3,
+        "n_shockwaves": 3,
+        "n_noise": 125
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera1",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 246,
+        "n_decel_points": 215,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 80
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera1",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera1_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 237,
+        "n_decel_points": 127,
+        "n_clusters": 2,
+        "n_shockwaves": 2,
+        "n_noise": 92
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera2",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 255,
+        "n_decel_points": 174,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 57
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera2",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 280,
+        "n_decel_points": 260,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 122
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera2",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 274,
+        "n_decel_points": 187,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 98
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera2",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 270,
+        "n_decel_points": 228,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 89
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera2",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera2_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 247,
+        "n_decel_points": 177,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 82
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera3",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 257,
+        "n_decel_points": 219,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 109
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera3",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 289,
+        "n_decel_points": 279,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 144
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera3",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 281,
+        "n_decel_points": 260,
+        "n_clusters": 15,
+        "n_shockwaves": 15,
+        "n_noise": 102
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera3",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 279,
+        "n_decel_points": 284,
+        "n_clusters": 12,
+        "n_shockwaves": 12,
+        "n_noise": 104
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera3",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera3_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 257,
+        "n_decel_points": 185,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 90
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera4",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 252,
+        "n_decel_points": 190,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 94
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera4",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 285,
+        "n_decel_points": 175,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 79
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera4",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 278,
+        "n_decel_points": 185,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 120
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera4",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 276,
+        "n_decel_points": 234,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 125
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera4",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera4_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 274,
+        "n_decel_points": 179,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 112
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera5",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 253,
+        "n_decel_points": 169,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 104
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera5",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 279,
+        "n_decel_points": 175,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 111
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera5",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 282,
+        "n_decel_points": 141,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 84
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera5",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 279,
+        "n_decel_points": 147,
+        "n_clusters": 5,
+        "n_shockwaves": 5,
+        "n_noise": 100
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera5",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera5_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 277,
+        "n_decel_points": 127,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 67
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera6",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 255,
+        "n_decel_points": 182,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 61
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera6",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 282,
+        "n_decel_points": 208,
+        "n_clusters": 9,
+        "n_shockwaves": 9,
+        "n_noise": 82
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera6",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 286,
+        "n_decel_points": 171,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 81
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera6",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 281,
+        "n_decel_points": 194,
+        "n_clusters": 8,
+        "n_shockwaves": 8,
+        "n_noise": 97
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera6",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera6_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 282,
+        "n_decel_points": 179,
+        "n_clusters": 7,
+        "n_shockwaves": 7,
+        "n_noise": 88
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera7",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 255,
+        "n_decel_points": 281,
+        "n_clusters": 14,
+        "n_shockwaves": 14,
+        "n_noise": 103
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera7",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 285,
+        "n_decel_points": 239,
+        "n_clusters": 11,
+        "n_shockwaves": 11,
+        "n_noise": 81
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera7",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 290,
+        "n_decel_points": 240,
+        "n_clusters": 13,
+        "n_shockwaves": 13,
+        "n_noise": 92
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera7",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 277,
+        "n_decel_points": 222,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 95
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera7",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera7_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 253,
+        "n_decel_points": 150,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 73
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera8",
+      "lane": 1,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_1_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 253,
+        "n_decel_points": 257,
+        "n_clusters": 14,
+        "n_shockwaves": 14,
+        "n_noise": 84
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera8",
+      "lane": 2,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_2_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 280,
+        "n_decel_points": 285,
+        "n_clusters": 12,
+        "n_shockwaves": 12,
+        "n_noise": 139
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera8",
+      "lane": 3,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_3_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 283,
+        "n_decel_points": 278,
+        "n_clusters": 14,
+        "n_shockwaves": 14,
+        "n_noise": 119
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera8",
+      "lane": 4,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_4_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 271,
+        "n_decel_points": 227,
+        "n_clusters": 10,
+        "n_shockwaves": 10,
+        "n_noise": 111
+      }
+    },
+    {
+      "time_interval": "0820am-0835am",
+      "camera": "camera8",
+      "lane": 5,
+      "method": "PELT+ + Graph (Proposed)",
+      "success": true,
+      "error": null,
+      "json_file": "C:\\Users\\terry\\Dropbox\\0_Project_Ongoing\\Dynamic Programming for Shockwave Analysis\\codes\\Validation on STMaps\\shockwave_results_full\\0820am-0835am\\PELTplus_plus_Graph_(Proposed)\\camera8_lane_5_PELTplus_plus_Graph_(Proposed).json",
+      "stats": {
+        "n_trajectories": 252,
+        "n_decel_points": 172,
+        "n_clusters": 6,
+        "n_shockwaves": 6,
+        "n_noise": 116
+      }
+    }
+  ],
+  "errors": []
+}
