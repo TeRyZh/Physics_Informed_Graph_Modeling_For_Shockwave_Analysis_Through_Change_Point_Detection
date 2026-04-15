@@ -1,0 +1,11 @@
+analysis,parameter,source,n_rejections,near_miss_pct,median_miss_distance,is_bottleneck,elasticity
+boundary_proximity,velocity,all-pass,77273860.0,4.84,0.6019,False,
+boundary_proximity,influential_distance,all-pass,75323654.0,1.72,4.9769,False,
+boundary_proximity,spatial_tolerance,all-pass,0.0,0.0,0.0,False,
+boundary_proximity,time_gap,all-pass,84036562.0,0.21,48.0,False,
+elasticity,influential_distance,,,,,,0.8165
+elasticity,min_time_gap,,,,,,-0.0005
+elasticity,max_time_gap,,,,,,0.9401
+elasticity,velocity_window_width,Half-width swept; center fixed at -15.0 ft/s,,,,,0.9999
+elasticity,min_shockwave_speed,max_shockwave_speed fixed at -5.0 ft/s,,,,,0.4615
+elasticity,max_shockwave_speed,min_shockwave_speed fixed at -25.0 ft/s,,,,,-0.4191
